@@ -1,5 +1,5 @@
 // 常用流程
-// 四区白三三
+// 一区迦南
 ($localVer) = 2020101107
 ($changeLog) = 实现懒人包自动更新；更新橙满伤；新增鼓舞续药飞翼
 @js ($version) = $.ajax({type: "GET", url: "http://wsmud-cdn.if404.com/version.txt", async: false, cache: false}).responseText;
